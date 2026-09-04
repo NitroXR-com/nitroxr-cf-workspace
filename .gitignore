@@ -14,3 +14,6 @@ sessions/
 package.json
 package-lock.json
 .fuse*
+
+# macOS AppleDouble files
+._*
